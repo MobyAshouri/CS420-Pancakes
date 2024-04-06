@@ -4,6 +4,6 @@ Our group's files:
 - [input.txt](input.txt)
 
 ## Refinement
-- We refined Shouzab Khan and Eric Lim's code.
+- We refined [Shouzab Khan and Eric Lim's code](PancakeSortingSolution.java).
   - Shouzab Khan and Eric Lim refined our group's code.
 - We refined [Muhammad Sheri and Ali Kesserwani's code](PancakeSort.java).
