@@ -63,6 +63,7 @@ def main():
         flip_positions.append(0)  # Append 0 as per the problem's requirement
         
         # Print the sorted list and flip positions
+        print("Original List:", line)
         print("Sorted List:", sorted_list)
         print("Flip Positions (Right to Left):", ' '.join(map(str, flip_positions)))
 
